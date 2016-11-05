@@ -1,0 +1,13 @@
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\WebStore.ApplicationService.dll
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\WebStore.ApplicationService.pdb
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\WebStore.Domain.dll
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\WebStore.Infrastructure.dll
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\WebStore.SharedKernel.dll
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\EntityFramework.dll
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\WebStore.Domain.pdb
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\WebStore.Infrastructure.pdb
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\WebStore.SharedKernel.pdb
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\bin\Debug\EntityFramework.xml
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\obj\Debug\WebStore.ApplicationService.csprojResolveAssemblyReference.cache
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\obj\Debug\WebStore.ApplicationService.dll
+F:\projetos\dotnet\WebStore\WebStore.ApplicationService\obj\Debug\WebStore.ApplicationService.pdb

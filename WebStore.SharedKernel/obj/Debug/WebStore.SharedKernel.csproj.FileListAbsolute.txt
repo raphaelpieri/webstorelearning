@@ -1,0 +1,5 @@
+F:\projetos\dotnet\WebStore\WebStore.SharedKernel\bin\Debug\WebStore.SharedKernel.dll
+F:\projetos\dotnet\WebStore\WebStore.SharedKernel\bin\Debug\WebStore.SharedKernel.pdb
+F:\projetos\dotnet\WebStore\WebStore.SharedKernel\obj\Debug\WebStore.SharedKernel.csprojResolveAssemblyReference.cache
+F:\projetos\dotnet\WebStore\WebStore.SharedKernel\obj\Debug\WebStore.SharedKernel.dll
+F:\projetos\dotnet\WebStore\WebStore.SharedKernel\obj\Debug\WebStore.SharedKernel.pdb

@@ -1,0 +1,7 @@
+F:\projetos\dotnet\WebStore\WebStore.Domain\bin\Debug\WebStore.Domain.dll
+F:\projetos\dotnet\WebStore\WebStore.Domain\bin\Debug\WebStore.Domain.pdb
+F:\projetos\dotnet\WebStore\WebStore.Domain\bin\Debug\WebStore.SharedKernel.dll
+F:\projetos\dotnet\WebStore\WebStore.Domain\bin\Debug\WebStore.SharedKernel.pdb
+F:\projetos\dotnet\WebStore\WebStore.Domain\obj\Debug\WebStore.Domain.csprojResolveAssemblyReference.cache
+F:\projetos\dotnet\WebStore\WebStore.Domain\obj\Debug\WebStore.Domain.dll
+F:\projetos\dotnet\WebStore\WebStore.Domain\obj\Debug\WebStore.Domain.pdb
